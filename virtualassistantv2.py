@@ -124,10 +124,10 @@ def mycommand(command):
            mail.starttls()
 
             #Give your username and password to login 
-           mail.login("abduldxb18@gmail.com","Makkani18")
+           mail.login("xxxx","xxxx")
 
             #your recipient username and mail id
-           mail.sendmail("Prathu Sekar", "prathufriend@gmail.com", content)
+           mail.sendmail("xxx", "xxx", content)
 
             #end mail connection
            mail.close()
