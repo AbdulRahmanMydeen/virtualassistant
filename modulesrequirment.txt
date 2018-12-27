@@ -1,5 +1,5 @@
 Modules needed :
-speech_recognition
+speechrecognition
 pocketsphinx
 pyttsx3 (if you are using python 2.x+ GO for pyttsx) 
 pypiwin32
